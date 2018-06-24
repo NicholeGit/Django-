@@ -69,11 +69,5 @@ urlpatterns = [
 
 ## APP
 
-- waterfall 瀑布流示例
-
-
-
-
-
-
+- [waterfall 瀑布流示例](.\Django_sample\Django_sample\waterfall\README.md)
 
