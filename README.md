@@ -60,7 +60,7 @@ python manage.py createsuperuser
 
 ## 配置路由
 
-```pyt
+```python
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('waterfall/', include('waterfall.urls')),  # 给waterfall设置子路由
